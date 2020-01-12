@@ -37,3 +37,8 @@ Temporary Items
 /.bundle/
 /vendor/bundle
 /lib/bundler/man/
+
+## mac
+.DS_Store
+assets/.DS_Store
+.jekyll-cache
