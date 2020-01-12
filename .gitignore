@@ -32,3 +32,8 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+## Environment normalization:
+/.bundle/
+/vendor/bundle
+/lib/bundler/man/
